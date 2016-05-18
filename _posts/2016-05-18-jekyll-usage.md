@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Sample
-categories: [general, demo]
-tags: [demo, jekyll]
-fullview: true
+title: Jekyll用法
+categories: [jekyll, ruby, markdown]
+tags: [jekyll, ruby, markdown]
+description: 基于Jekyll和Ruby的高级文本编写技巧.
+fullview: false
 comments: true
 ---
 
