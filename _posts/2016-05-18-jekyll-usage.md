@@ -2,8 +2,8 @@
 layout: post
 title: Jekyll用法
 categories: [jekyll, ruby, markdown]
-tags: [jekyll, ruby, markdown]
-description: 基于Jekyll和Ruby的高级文本编写技巧.
+tags: [jekyll]
+description: 基于Jekyll的文本编写技巧.
 fullview: false
 comments: true
 ---

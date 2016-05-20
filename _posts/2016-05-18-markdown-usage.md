@@ -7,11 +7,12 @@ description: 介绍了markdown的一些基本用法.
 fullview: false
 comments: true
 ---
-图片加载可能比较缓慢，请体谅：
-![image](https://github.com/dovenfeng/res/blob/master/pic/markdown/markdown%20_usage1.png?raw=true)
+根据不同的网络环境，图片加载可能相对缓慢，请体谅:)
 
-![image](https://github.com/dovenfeng/res/blob/master/pic/markdown/markdown%20_usage2.png?raw=true)
+![image](https://github.com/dovenfeng/res/blob/master/pic/2016-05-18-markdown-usage-1.png?raw=true)
 
-![image](https://github.com/dovenfeng/res/blob/master/pic/markdown/markdown%20_usage3.png?raw=true)
+![image](https://github.com/dovenfeng/res/blob/master/pic/2016-05-18-markdown-usage-2.png?raw=true)
+
+![image](https://github.com/dovenfeng/res/blob/master/pic/2016-05-18-markdown-usage-3.png?raw=true)
 
 感谢有道云笔记（版本4.9.0.1）提供的markdown编辑和预览功能！
