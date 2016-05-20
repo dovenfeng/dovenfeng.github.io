@@ -16,7 +16,7 @@ defaults:
     values:
       title: dovenfeng
 
-description: Stylish Jekyll Theme
+description: dovenfeng's blog
 author:
   name: dovenfeng
   email: dovenfeng@gmail.com
