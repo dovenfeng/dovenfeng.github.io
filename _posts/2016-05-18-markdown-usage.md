@@ -2,7 +2,6 @@
 layout: post
 title: Markdown用法
 categories: [markdown]
-tags: [markdown]
 description: 介绍了markdown的一些基本用法.
 fullview: false
 comments: true
