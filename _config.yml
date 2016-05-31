@@ -31,7 +31,7 @@ author:
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
-about_path: about.md
+about_path: about.html
 
 # set it as url of an image
 # sidebar_background_image: assets/media/sky.png
