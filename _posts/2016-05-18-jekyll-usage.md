@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jekyll用法
-categories: [jekyll]
+categories: [学习]
 description: 基于Jekyll的文本编写技巧.
 fullview: false
 comments: true
