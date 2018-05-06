@@ -558,7 +558,7 @@
 .fa-bar-chart-o:before {
   content: "\f080";
 }
-.fa-weibo-square:before {
+.fa-twitter-square:before {
   content: "\f081";
 }
 .fa-facebook-square:before {
@@ -628,7 +628,7 @@
 .fa-phone-square:before {
   content: "\f098";
 }
-.fa-weibo:before {
+.fa-twitter:before {
   content: "\f099";
 }
 .fa-facebook:before {
@@ -1298,7 +1298,7 @@
 .fa-vk:before {
   content: "\f189";
 }
-.fa-weibo:before {
+.fa-twitter:before {
   content: "\f18a";
 }
 .fa-renren:before {
