@@ -8,10 +8,10 @@ comments: true
 ---
 根据不同的网络环境，图片加载可能相对缓慢，请体谅:)
 
-![image](https://github.com/dovenfeng/res/blob/master/pic/2016-05-18-markdown-usage-1.png?raw=true)
+![image](https://raw.githubusercontent.com/dovenfeng/res/master/pic/20160518/1.png?raw=true)
 
-![image](https://github.com/dovenfeng/res/blob/master/pic/2016-05-18-markdown-usage-2.png?raw=true)
+![image](https://raw.githubusercontent.com/dovenfeng/res/master/pic/20160518/2.png?raw=true)
 
-![image](https://github.com/dovenfeng/res/blob/master/pic/2016-05-18-markdown-usage-3.png?raw=true)
+![image](https://raw.githubusercontent.com/dovenfeng/res/master/pic/20160518/3.png?raw=true)
 
 感谢有道云笔记（版本4.9.0.1）提供的markdown编辑和预览功能！
