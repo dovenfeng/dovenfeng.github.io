@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Markdown用法
-categories: [学习]
+categories: [日常知识]
 description: 介绍了markdown的一些基本用法.
 fullview: false
 comments: true
